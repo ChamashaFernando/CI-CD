@@ -1,4 +1,4 @@
-package lk.chamasha.student.controlller;
+package lk.chamasha.student.controller;
 
 import lk.chamasha.student.model.Student;
 import lk.chamasha.student.service.StudentService;
